@@ -65,4 +65,27 @@ $ python app1.py
 Hello, world
 ----
 
-You just created your first Python program!
+You just created your first Python program! 
+
+Can you guess what's happening?
+
+* `print` is a command to write something to the screen.
+* Anything inside the double-quotes is what gets written to screen. The stuff inside the double-quotes is called a *string*, which is short for *string of characters*.
+
+This is probably the absolute simplest program one could possibly write in Python. But don't let that fool you. Giant companies like Google, Amazon, eBay, and others
+use Python to run big stuff. And I use it all the time as well.
+
+=== Questions?
+
+[qanda]
+Why can't I use TextEdit?::
+TextEdit comes with your Mac, but unfortunately, it tries to make the text too fancy. To write Python programs, you need things to be *plain text*.
+
+What about Microsoft Word or some other word processor?::
+These tools are better used when writing papers for school. They let you format the text with *bold*, _italics_, and other things. This type of stuff
+confuses python and won't run very well. That's why there are instructions to download *TextWrangle*.
+
+Why does my program inside TextWrangle show different colors?::
+If you look at the program inside TextWrangle up above, you'll notice that `print` is black while the double-quotes and stuff inside is red. That's called
+*syntax highlighting*, a handy feature that as you get more familiar with Python, will let you spot mistakes quicker. Notice at the bottom of the editor, 
+you can see *Python*. That's because TextWrangler speaks Python and can help you out.
