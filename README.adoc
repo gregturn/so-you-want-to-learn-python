@@ -54,10 +54,8 @@ image:images/pick_textwrangler.png[]
 . Inside TextWrangler:
 .. Enter a tiny program.
 +
-[source,python]
-----
-print "Hello, world!" 
-----
+image::images/app1_textwrangler.png[]
+
 .. Either navigate to *File* -> *Save*, or simply hit `Cmd+S` and save your new program.
 . Inside Terminal:
 .. Type `python app1.py`, and you should see the greeting get printed to the screen:
