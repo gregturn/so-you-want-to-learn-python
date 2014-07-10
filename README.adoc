@@ -86,6 +86,6 @@ These tools are better used when writing papers for school. They let you format 
 confuses python and won't run very well. That's why there are instructions to download *TextWrangle*.
 
 Why does my program inside TextWrangle show different colors?::
-If you look at the program inside TextWrangle up above, you'll notice that `print` is black while the double-quotes and stuff inside is red. That's called
+If you look at the program inside TextWrangle up above, you'll notice that `print` is black while `"Hello, world"` is red. That's called
 *syntax highlighting*, a handy feature that as you get more familiar with Python, will let you spot mistakes quicker. Notice at the bottom of the editor, 
 you can see *Python*. That's because TextWrangler speaks Python and can help you out.
